@@ -1,4 +1,8 @@
 site_name: E-lunta
+
+docs_dir: ./docs
+site_dir: ../docs
+
 nav:
   - Home: index.md
   - About: about.md
@@ -11,3 +15,5 @@ theme:
 markdown_extensions:
   - toc:
       baselevel: 1
+
+  
