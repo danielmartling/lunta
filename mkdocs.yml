@@ -1,0 +1,13 @@
+site_name: E-lunta
+nav:
+  - Home: index.md
+  - About: about.md
+  - Platser:
+    - Lägerbålsplatser och vindskydd: lbp.md
+    - Inomhus: inomhus.md
+    - Utomhus: utomhus.md
+theme:
+  name: mkdocs
+markdown_extensions:
+  - toc:
+      baselevel: 1
