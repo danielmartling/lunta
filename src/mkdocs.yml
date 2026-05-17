@@ -3,9 +3,11 @@ site_name: E-lunta
 docs_dir: ./docs
 site_dir: ../docs
 
+repo_url: https://github.com/danielmartling/lunta
+
 nav:
-  - Home: index.md
-  - About: about.md
+  # - Home: index.md
+  # - About: about.md
   - Platser:
     - Lägerbålsplatser och vindskydd: lbp.md
     - Inomhus: inomhus.md
@@ -13,6 +15,7 @@ nav:
 theme:
   name: material
   logo: ./img/Scoutsymbolen_white.png
+  language: sv
 
 markdown_extensions:
   - toc:
@@ -23,5 +26,6 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - search
 
   
