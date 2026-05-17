@@ -11,9 +11,17 @@ nav:
     - Inomhus: inomhus.md
     - Utomhus: utomhus.md
 theme:
-  name: mkdocs
+  name: material
+  logo: ./img/Scoutsymbolen_white.png
+
 markdown_extensions:
   - toc:
       baselevel: 1
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox
 
   
