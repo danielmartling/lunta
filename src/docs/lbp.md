@@ -26,7 +26,7 @@
     ---
     Beskrivning
 
-   ![Bild](./img/lbp)
+   ![Bild](./img/lbp/campfirering.svg)
 
 </div>
 
