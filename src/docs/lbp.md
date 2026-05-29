@@ -5,30 +5,28 @@
 <div class="grid cards" markdown>
 
 -   ### Fårhagen
-    
     ---
-
     _info_
 
    ![Fårhagen](./img/lbp/fårhagen.png)
 
 -   ### Naturnäran
-    
     ---
-
     Stockring i skogen på spåret Naturnäran.
 
    ![INaturnäran](./img/lbp/naturnäran.png)
 
 -   ### Södra stranden
-
     ---
-
     Stockring vid stranden.
 
    ![Södra stranden](./img/lbp/södrastranden.png)
 
+-   ### Lägerbålsplats
+    ---
+    Beskrivning
 
+   ![Bild](./img/lbp)
 
 </div>
 
